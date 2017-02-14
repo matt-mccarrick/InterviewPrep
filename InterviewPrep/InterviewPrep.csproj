@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="BracketParser.cs" />
     <Compile Include="BSNode.cs" />
+    <Compile Include="LinkedLists\LNode.cs" />
     <Compile Include="OneAway.cs" />
     <Compile Include="PermutationChecker.cs" />
     <Compile Include="PalindromePerm.cs" />
@@ -54,7 +55,9 @@
     <Compile Include="ScoreSorter.cs" />
     <Compile Include="StockPrices.cs" />
     <Compile Include="StringPatternChecker.cs" />
+    <Compile Include="StrRotation.cs" />
     <Compile Include="UniqueCharacters.cs" />
+    <Compile Include="ZeroMatrix.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
