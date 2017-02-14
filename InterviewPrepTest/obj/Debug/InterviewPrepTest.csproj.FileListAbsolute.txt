@@ -1,0 +1,8 @@
+C:\Development\git\InterviewPrep\InterviewPrepTest\bin\Debug\InterviewPrepTest.dll
+C:\Development\git\InterviewPrep\InterviewPrepTest\bin\Debug\InterviewPrepTest.pdb
+C:\Development\git\InterviewPrep\InterviewPrepTest\bin\Debug\InterviewPrep.exe
+C:\Development\git\InterviewPrep\InterviewPrepTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Development\git\InterviewPrep\InterviewPrepTest\bin\Debug\InterviewPrep.pdb
+C:\Development\git\InterviewPrep\InterviewPrepTest\obj\Debug\InterviewPrepTest.csprojResolveAssemblyReference.cache
+C:\Development\git\InterviewPrep\InterviewPrepTest\obj\Debug\InterviewPrepTest.dll
+C:\Development\git\InterviewPrep\InterviewPrepTest\obj\Debug\InterviewPrepTest.pdb
